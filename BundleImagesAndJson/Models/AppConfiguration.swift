@@ -9,4 +9,5 @@ struct AppConfiguration: Decodable {
     let maxDisplayedImages: Int
     let welcomeMessage: String
     let title: String
+    let images: [String]
 }

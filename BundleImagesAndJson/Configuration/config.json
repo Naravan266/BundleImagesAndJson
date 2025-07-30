@@ -2,5 +2,6 @@
 {
   "maxDisplayedImages": 4,
   "welcomeMessage": "Configured from JSON!",
-  "title": "Food images"
+  "title": "Food images",
+  "images": ["Salmon", "Shrimps", "Steak", "Steak2", "Steak3"]
 }
